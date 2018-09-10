@@ -1,0 +1,19 @@
+{
+  "name": "proton",
+  "version": "1.0.0",
+  "description": "A website for modular plant pots that work in space",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teamwalle/space_proton_2018.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teamwalle/space_proton_2018/issues"
+  },
+  "homepage": "https://github.com/teamwalle/space_proton_2018#readme"
+}
