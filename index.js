@@ -30,7 +30,7 @@ function handle_rss(req, res) {
 
 app.get('/feed/rss', (req, res) => handle_rss(req, res))
 
-var server = app.listen(80, function() {
+var server = app.listen(process.env.PORT, function() {
 	var host = 'localhost';
 	var port = server.address().port;
 	console.log('listening on http://' + host + ':' + port + '/');

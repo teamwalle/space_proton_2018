@@ -15,5 +15,7 @@
   "bugs": {
     "url": "https://github.com/teamwalle/space_proton_2018/issues"
   },
-  "homepage": "https://github.com/teamwalle/space_proton_2018#readme"
+  "homepage": "https://github.com/teamwalle/space_proton_2018#readme",
+  "dependencies": {
+  }
 }
