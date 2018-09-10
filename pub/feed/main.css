@@ -1,0 +1,14 @@
+@import '../assets/colours.css';
+
+*{
+	font-family: aek;
+	margin: 0;
+	padding: 0;
+}
+
+.feed{
+	list-style: none;
+}
+
+.feed p{
+}
