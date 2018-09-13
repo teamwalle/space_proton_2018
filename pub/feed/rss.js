@@ -1,6 +1,6 @@
 $(document).ready(function() {
 	//feed to parse
-	var feed = "/feed/rss";
+	var feed = "https://thisisteamwalle.weebly.com/1/feed";
 
 	$.ajax(feed, {
 		accepts: {

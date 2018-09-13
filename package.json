@@ -17,5 +17,6 @@
   },
   "homepage": "https://github.com/teamwalle/space_proton_2018#readme",
   "dependencies": {
+    "express": "^4.16.3"
   }
 }
